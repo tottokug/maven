@@ -6,11 +6,4 @@
   <artifactId>aws-java-sdk-flow-build-tools</artifactId>
   <version>1.4.1</version>
   <description>POM was created from install:install-file</description>
-    <dependencies>
-        <dependency>
-            <groupId>com.amazonaws</groupId>
-            <artifactId>aws-java-sdk</artifactId>
-            <version>1.4.1</version>
-        </dependency>
-    </dependencies>
 </project>

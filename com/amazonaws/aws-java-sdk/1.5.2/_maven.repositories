@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jul 29 15:39:16 JST 2013
+aws-java-sdk-1.5.2.jar>=
+aws-java-sdk-1.5.2.pom>=
+aws-java-sdk-1.5.2-javadoc.jar>=

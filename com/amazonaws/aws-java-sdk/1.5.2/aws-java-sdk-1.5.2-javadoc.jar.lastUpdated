@@ -1,5 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jul 30 12:59:49 JST 2013
-https\://raw.github.com/tottokug/maven/master/.error=Could not transfer artifact com.amazonaws\:aws-java-sdk\:jar\:javadoc\:1.5.2 from/to maven.tottokug.com (https\://raw.github.com/tottokug/maven/master)\: Access denied to\: https\://raw.github.com/tottokug/maven/master/com/amazonaws/aws-java-sdk/1.5.2/aws-java-sdk-1.5.2-javadoc.jar
-http\://repo1.maven.org/maven2/.lastUpdated=1375156789057
-default-https\://raw.github.com/tottokug/maven/master/.lastUpdated=1375156786407
+#Mon Aug 05 19:30:56 JST 2013
+s3\://mushikago.org/m2/repository/.lastUpdated=1375698103264
+http\://repo.maven.apache.org/maven2/.lastUpdated=1375698656185
+s3\://mushikago.org/m2/repository/.error=
+http\://repository.coravy.com/maven2/.error=
+http\://repository.coravy.com/maven2/.lastUpdated=1375698110409

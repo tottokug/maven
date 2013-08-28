@@ -1,6 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jul 11 16:25:08 JST 2013
+#Wed Aug 21 17:09:15 JST 2013
 aws-java-sdk-1.5.0.jar>=
+aws-java-sdk-1.5.0.pom>central=
 aws-java-sdk-1.5.0-javadoc.jar>maven-central=
 aws-java-sdk-1.5.0-sources.jar>maven-central=
 aws-java-sdk-1.5.0.pom>maven-central=

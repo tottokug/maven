@@ -1,5 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jul 30 12:59:38 JST 2013
-https\://raw.github.com/tottokug/maven/master/.lastUpdated=1375156777149
-https\://raw.github.com/tottokug/maven/master/.error=
-http\://repo1.maven.org/maven2/.lastUpdated=1375156778837
+#Mon Aug 05 19:19:12 JST 2013
+s3\://mushikago.org/m2/repository/.lastUpdated=1375697719016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1375697952902
+s3\://mushikago.org/m2/repository/.error=
+http\://repository.coravy.com/maven2/.error=
+http\://repository.coravy.com/maven2/.lastUpdated=1375697721060

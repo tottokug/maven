@@ -1,9 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Aug 05 19:30:56 JST 2013
-aws-java-sdk-1.5.2.jar>=
-aws-java-sdk-1.5.2.pom>maven.tottokug.com=
-aws-java-sdk-1.5.2-javadoc.jar>central=
-aws-java-sdk-1.5.2.jar>maven.tottokug.com=
+#Wed Aug 28 17:20:46 JST 2013
 aws-java-sdk-1.5.2-sources.jar>central=
+aws-java-sdk-1.5.2-javadoc.jar>central=
+aws-java-sdk-1.5.2.jar>=
 aws-java-sdk-1.5.2.jar>central=
 aws-java-sdk-1.5.2.pom>central=
+aws-java-sdk-1.5.2.pom>maven.tottokug.com=
+aws-java-sdk-1.5.2-sources.jar>=
+aws-java-sdk-1.5.2.jar>maven.tottokug.com=
+aws-java-sdk-1.5.2-javadoc.jar>=

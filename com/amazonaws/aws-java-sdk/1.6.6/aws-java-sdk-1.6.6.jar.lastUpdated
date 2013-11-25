@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Nov 25 08:48:41 JST 2013
+default-http\://repo1.maven.org/maven2/.lastUpdated=1385336921768
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.amazonaws\:aws-java-sdk\:jar\:1.6.6 from/to central (http\://repo1.maven.org/maven2)\: null to http\://repo1.maven.org/maven2/com/amazonaws/aws-java-sdk/1.6.6/aws-java-sdk-1.6.6.jar

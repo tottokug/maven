@@ -1,7 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Aug 29 14:23:13 JST 2013
+#Mon Sep 09 22:45:23 JST 2013
 http\://opennlp.sourceforge.net/maven2/.lastUpdated=1377753793457
 default-http\://source.db4o.com/maven/.lastUpdated=1377753793080
-http\://repo1.maven.org/maven2/.lastUpdated=1377753793694
-http\://source.db4o.com/maven/.error=Could not transfer artifact com.amazonaws\:aws-java-sdk\:jar\:1.5.5 from/to source.db4o (http\://source.db4o.com/maven)\: Connection to http\://source.db4o.com refused
+http\://repo1.maven.org/maven2/.lastUpdated=1378734323069
 http\://opennlp.sourceforge.net/maven2/.error=
+http\://source.db4o.com/maven/.error=Could not transfer artifact com.amazonaws\:aws-java-sdk\:jar\:1.5.5 from/to source.db4o (http\://source.db4o.com/maven)\: Connection to http\://source.db4o.com refused

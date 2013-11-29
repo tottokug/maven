@@ -1,0 +1,5 @@
+commons-*
+org/springframework
+org/apache
+.DS_Store
+*/_maven.repositories

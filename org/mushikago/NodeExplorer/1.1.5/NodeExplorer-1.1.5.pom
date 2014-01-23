@@ -5,7 +5,7 @@
 	<groupId>org.mushikago</groupId>
 	<artifactId>NodeExplorer</artifactId>
 	<version>1.1.5</version>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 
 	<name>NodeExplorer</name>
 

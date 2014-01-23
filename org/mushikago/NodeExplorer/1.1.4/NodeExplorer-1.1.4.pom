@@ -1,0 +1,75 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>org.mushikago</groupId>
+	<artifactId>NodeExplorer</artifactId>
+	<version>1.1.4</version>
+	<packaging>pom</packaging>
+
+	<name>NodeExplorer</name>
+
+	<description>NodeExplorer is Html Scraping Library</description>
+	<licenses>
+		<license>
+			<name>Apache License 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+
+	<developers>
+		<developer>
+			<id>miningbrownie</id>
+			<name>miningbrownie</name>
+			<email>oss@miningbrownie.co.jp</email>
+			<url>http://www.miningbrownie.co.jp</url>
+			<roles>
+				<role>lead</role>
+				<role>architect</role>
+				<role>developer</role>
+			</roles>
+			<timezone>-9</timezone>
+		</developer>
+	</developers>
+
+	<url>http://www.mushikago.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<!--license:ASL2 -->
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.4</version>
+		</dependency>
+		<dependency>
+			<!--license:ASL2 -->
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.2.5</version>
+		</dependency>
+		<dependency>
+			<!--license:ASL2 -->
+			<groupId>xalan</groupId>
+			<artifactId>xalan</artifactId>
+			<version>2.7.1</version>
+		</dependency>
+		<dependency>
+			<!--license:CPL -->
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.11</version>
+		</dependency>
+		<dependency>
+			<!--license:ASL2 -->
+			<groupId>nekohtml</groupId>
+			<artifactId>nekohtml</artifactId>
+			<version>1.9.6.2</version>
+		</dependency>
+	</dependencies>
+</project>

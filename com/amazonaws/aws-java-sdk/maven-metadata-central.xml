@@ -3,8 +3,8 @@
   <groupId>com.amazonaws</groupId>
   <artifactId>aws-java-sdk</artifactId>
   <versioning>
-    <latest>1.3.21.1</latest>
-    <release>1.3.21.1</release>
+    <latest>1.6.7</latest>
+    <release>1.6.7</release>
     <versions>
       <version>1.0.000</version>
       <version>1.0.001</version>
@@ -70,7 +70,47 @@
       <version>1.3.20</version>
       <version>1.3.21</version>
       <version>1.3.21.1</version>
+      <version>1.3.22</version>
+      <version>1.3.23</version>
+      <version>1.3.24</version>
+      <version>1.3.25</version>
+      <version>1.3.26</version>
+      <version>1.3.27</version>
+      <version>1.3.29</version>
+      <version>1.3.30</version>
+      <version>1.3.31</version>
+      <version>1.3.32</version>
+      <version>1.3.33</version>
+      <version>1.4.0</version>
+      <version>1.4.0.1</version>
+      <version>1.4.1</version>
+      <version>1.4.2</version>
+      <version>1.4.2.1</version>
+      <version>1.4.3</version>
+      <version>1.4.4.1</version>
+      <version>1.4.4.2</version>
+      <version>1.4.5</version>
+      <version>1.4.6</version>
+      <version>1.4.7</version>
+      <version>1.5.0</version>
+      <version>1.5.1</version>
+      <version>1.5.2</version>
+      <version>1.5.3</version>
+      <version>1.5.4</version>
+      <version>1.5.5</version>
+      <version>1.5.6</version>
+      <version>1.5.7</version>
+      <version>1.5.8</version>
+      <version>1.6.0</version>
+      <version>1.6.0.1</version>
+      <version>1.6.1</version>
+      <version>1.6.2</version>
+      <version>1.6.3</version>
+      <version>1.6.4</version>
+      <version>1.6.5</version>
+      <version>1.6.6</version>
+      <version>1.6.7</version>
     </versions>
-    <lastUpdated>20120924232812</lastUpdated>
+    <lastUpdated>20131123000651</lastUpdated>
   </versioning>
 </metadata>

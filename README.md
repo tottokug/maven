@@ -2,8 +2,7 @@ maven
 =====
 
 ## how to use
-
-<pre>
+```xml
  <repositories>
   <repository>
    <id>maven.tottokug.com</id>
@@ -19,4 +18,4 @@ maven
     <version></version>
   </dependency>
  </dependencies>
-</pre>
+```

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat May 10 23:24:43 JST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1399731883758
+http\://repo.maven.apache.org/maven2/.error=
+https\://mvn.tottokug.com/mvn/.error=Could not transfer artifact com.amazonaws\:aws-java-sdk-flow-build-tools\:pom\:1.7.8 from/to mvn.tottokug.com (https\://mvn.tottokug.com/mvn)\: Access denied to https\://mvn.tottokug.com/mvn/com/amazonaws/aws-java-sdk-flow-build-tools/1.7.8/aws-java-sdk-flow-build-tools-1.7.8.pom. Error code 403, Forbidden
+default-https\://mvn.tottokug.com/mvn/.lastUpdated=1399731883480

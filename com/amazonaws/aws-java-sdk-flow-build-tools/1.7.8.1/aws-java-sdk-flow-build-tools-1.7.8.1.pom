@@ -9,7 +9,7 @@
   <dependencies>
      <dependency>
        <groupId>com.amazonaws</groupId>
-       <artifactId>aws-java-sdk-flow-build-tools</artiractId>
+       <artifactId>aws-java-sdk</artiractId>
        <version>1.7.8.1</version>
      </dependency>
      <dependency>
@@ -30,12 +30,12 @@
      <dependency>
        <groupId>org.aspectj</groupId>
        <artifactId>aspectjrt</artiractId>
-       <version>[1.6.,)</version>
+       <version>1.6.12</version>
      </dependency>
      <dependency>
        <groupId>org.aspectj</groupId>
        <artifactId>aspectjweaver</artiractId>
-       <version>[1.6.,)</version>
+       <version>1.6.12</version>
      </dependency>
   </dependencies>
 </project>

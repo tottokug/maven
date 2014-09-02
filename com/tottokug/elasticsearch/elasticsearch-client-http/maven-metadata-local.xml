@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tottokug.elasticsearch</groupId>
+  <artifactId>elasticsearch-client-http</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140902065548</lastUpdated>
+  </versioning>
+</metadata>
